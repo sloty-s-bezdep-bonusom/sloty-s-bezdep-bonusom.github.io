@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+Host: sloty-s-bezdep-bonusom.github.io
+Sitemap: https://sloty-s-bezdep-bonusom.github.io/sitemap.xml
